@@ -152,7 +152,7 @@ async def setup(ctx):
                       value="The process has been `terminated`.",
                       inline=True)
 
-    if ctx.author.id != 774186182544064522:
+    if ctx.author.id != "":
         await ctx.channel.send(embed=embed2)
         return
     else:
@@ -377,7 +377,7 @@ async def txtsetup(ctx, arg1=None):
                       value="The process has been `terminated`.",
                       inline=True)
 
-    if ctx.author.id != 774186182544064522:
+    if ctx.author.id != "":
         await ctx.channel.send(embed=embed20)
         return
 
@@ -527,7 +527,7 @@ async def roles(ctx):
                       value="The process has been `terminated`.",
                       inline=True)
 
-    if ctx.author.id != 774186182544064522:
+    if ctx.author.id != "":
         await ctx.channel.send(embed=embed20)
         return
 
