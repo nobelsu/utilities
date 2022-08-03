@@ -1,6 +1,6 @@
 # Utilities Bot
 > Built with discord.py, Utilities Bot was meant to assist users to setup their servers quickly.
-#### Note: This project has been discontinued. "discord.py" will only be available until April 2022.
+#### Note: This project has been discontinued. 
 
 ## Features
 1. Regular Setup
